@@ -29,3 +29,18 @@ int main() {
  b = b>>2;
  cout<<b<<endl;
  }
+
+*/ 
+Enter the first number: 
+1
+Enter the second number: 
+44
+0
+45
+45
+-2
+-45
+4
+176
+1
+44*/
