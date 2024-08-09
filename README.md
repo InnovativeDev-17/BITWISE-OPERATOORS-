@@ -1,3 +1,7 @@
+Aim:
+To study how to use bitwise operators is cpp
+
+Theory:
 # BITWISE-OPERATOORS-
 Bitwise operators change/manipulate the given input or data at individual bits level. They operate on integer operands treating them as sequence of binary digits.
 
